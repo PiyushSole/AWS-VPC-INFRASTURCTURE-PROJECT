@@ -274,7 +274,7 @@ Deletion Process
 -------------------
 
 1) Terminate both the EC2 instances.
-2) Select myVPC  , delete VPC
+2) Select myVPC  , delete VPC.
 When VPC is deleted,  Internet gateways, Route tables and subnets  will also be deleted automatically.
 
 ++++++++++
